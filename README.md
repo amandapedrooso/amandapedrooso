@@ -1,4 +1,7 @@
-<h1 align="center"> **Amanda Pedroso** </h1>
+<h1 align="center">
+  <font face="Verdana" color="#7B68EE"> Amanda Pedroso </font>
+</h1>
+
 
 
 <h3 align="center">💻 Estudante de Engenharia de Software | Futura Engenheira de Software 💡</h3>
