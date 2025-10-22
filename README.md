@@ -33,7 +33,7 @@ Atualmente estou me aprofundando em **JavaScript** e aprimorando meus conhecimen
 ## 📫 Contato
 
 📧 **E-mail:** [amandapedroso.562@gmail.com](mailto:amandapedroso.562@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/amandapedroso](https://www.linkedin.com/in/amandapedroso)  
+🔗 **LinkedIn:** [linkedin.com/in/amanda-pedroso-617037284](https://www.linkedin.com/in/amanda-pedroso-617037284/)
 
 ---
 
@@ -45,6 +45,3 @@ Atualmente estou me aprofundando em **JavaScript** e aprimorando meus conhecimen
 
 ---
 
-<p align="center">
-  ⭐ <i>"Transformando curiosidade em código e sonhos em projetos."</i> ⭐
-</p>
